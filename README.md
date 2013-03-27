@@ -5,7 +5,7 @@ only 2k的可配置的URL 路由实现 qserouter
 
 具体代码如下
 
-  <?php
+  
 	/**
 	 * 简单的URL 路由解析器
 	 * 
